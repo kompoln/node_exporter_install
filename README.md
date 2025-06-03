@@ -6,7 +6,7 @@ This script automates the installation of the latest stable version of Prometheu
 Usage:
 1. Download the script:
 ```
-   curl -O https://raw.githubusercontent.com/your-username/node_exporter_install/main/node_exporter_install.sh
+   curl -O https://raw.githubusercontent.com/kompoln/node_exporter_install/main/node_exporter_install.sh
 ```
 2. Make it executable:
 ```
