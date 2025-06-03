@@ -6,14 +6,14 @@ This script automates the installation of the latest stable version of Prometheu
 Usage:
 1. Download the script:
 ```
-   curl -O https://raw.githubusercontent.com/kompoln/node_exporter_install/main/node_exporter_install.sh
+curl -O https://raw.githubusercontent.com/kompoln/node_exporter_install/main/node_exporter_install.sh
 ```
 2. Make it executable:
 ```
-   chmod +x node_exporter_install.sh
+chmod +x node_exporter_install.sh
 ```
-4. Run the script as root:
+3. Run the script as root:
 ```
-   sudo ./node_exporter_install.sh
+sudo ./node_exporter_install.sh
 ```
 After installation, Node Exporter will be running on port 9100.
